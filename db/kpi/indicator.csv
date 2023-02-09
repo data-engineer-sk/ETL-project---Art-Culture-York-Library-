@@ -1,0 +1,45 @@
+indicator_id,Activity,LibraryName,CollectionFrequency,Latitude,Longitude,Polarity
+BYS236,% of residents who volunteer at least once per week (All Responses),No Name,Annual,0.0,0.0,Up is Good
+LIB01,Library Visits,All Libraries,Monthly,0.0,0.0,Up is Good
+LIB01-A,Library Visits,Acomb Explore,Monthly,53.95371799999999,-1.129296,Up is Good
+LIB01-B,Library Visits,Bishopthorpe Library,Monthly,53.9210193,-1.0996758,Up is Good
+LIB01-C,Library Visits,Clifton Explore,Monthly,53.9779577,-1.1065154,Up is Good
+LIB01-D,Library Visits,Copmanthorpe Library,Monthly,53.9156213,-1.1412461,Up is Good
+LIB01-E,Library Visits,Dringhouses Library,Monthly,53.9392468,-1.1078006,Up is Good
+LIB01-F,Library Visits,Dunnington Library,Monthly,53.9653161,-0.9802346999999998,Up is Good
+LIB01-G,Library Visits,Fulford Library,Monthly,53.93727519999999,-1.0703266,Up is Good
+LIB01-H,Library Visits,Haxby Explore,Monthly,54.01638999999999,-1.0621415,Up is Good
+LIB01-I,Library Visits,Huntington Library,Monthly,34.1290452,-118.1145242,Up is Good
+LIB01-J,Library Visits,Mobile Library,Monthly,0.0,0.0,Up is Good
+LIB01-K,Library Visits,New Earswick Library,Monthly,53.98911769999999,-1.0734392,Up is Good
+LIB01-L,Library Visits,Poppleton Library,Monthly,53.9840938,-1.1541372,Up is Good
+LIB01-M,Library Visits,Rowntree Park Reading Cafe,Monthly,53.9489125,-1.0827357,Up is Good
+LIB01-N,Library Visits,Strensall Library,Monthly,54.0402916,-1.0312258,Up is Good
+LIB01-O,Library Visits,Sycamore House Reading Cafe,Monthly,30.3113698,-89.32947449999999,Up is Good
+LIB01-P,Library Visits,Burnholme/Tang Hall Explore,Monthly,53.9645698,-1.0482512,Up is Good
+LIB01-Q,Library Visits,York Explore,Monthly,53.961444,-1.086305,Up is Good
+LIB01-S,Library Visits,Homestead Park,Monthly,40.0521162,-83.18246839999999,Up is Good
+LIB02,Books Borrowed,All Libraries,Monthly,0.0,0.0,Up is Good
+LIB02-A,Books Borrowed,Acomb Explore,Monthly,53.95371799999999,-1.129296,Up is Good
+LIB02-B,Books Borrowed,Bishopthorpe Library,Monthly,53.9210193,-1.0996758,Up is Good
+LIB02-C,Books Borrowed,Clifton Explore,Monthly,53.9779577,-1.1065154,Up is Good
+LIB02-D,Books Borrowed,Copmanthorpe Library,Monthly,53.9156213,-1.1412461,Up is Good
+LIB02-E,Books Borrowed,Dringhouses Library,Monthly,53.9392468,-1.1078006,Up is Good
+LIB02-F,Books Borrowed,Dunnington Library,Monthly,53.9653161,-0.9802346999999998,Up is Good
+LIB02-G,Books Borrowed,Fulford Library,Monthly,53.93727519999999,-1.0703266,Up is Good
+LIB02-H,Books Borrowed,Haxby Explore,Monthly,54.01638999999999,-1.0621415,Up is Good
+LIB02-I,Books Borrowed,Huntington Library,Monthly,34.1290452,-118.1145242,Up is Good
+LIB02-J,Books Borrowed,Mobile Library,Monthly,0.0,0.0,Up is Good
+LIB02-K,Books Borrowed,New Earswick Library,Monthly,53.98911769999999,-1.0734392,Up is Good
+LIB02-L,Books Borrowed,Poppleton Library,Monthly,53.9840938,-1.1541372,Up is Good
+LIB02-M,Books Borrowed,Rowntree Park Reading Cafe,Monthly,53.9489125,-1.0827357,Up is Good
+LIB02-N,Books Borrowed,Strensall Library,Monthly,54.0402916,-1.0312258,Up is Good
+LIB02-O,Books Borrowed,Sycamore House Reading Library,Monthly,0.0,0.0,Up is Good
+LIB02-P,Books Borrowed,Burnholme/Tang Hall Explore,Monthly,53.9645698,-1.0482512,Up is Good
+LIB02-Q,Books Borrowed,York Explore,Monthly,53.961444,-1.086305,Up is Good
+LIB02-R,Books Borrowed,E-Library,Monthly,0.0,0.0,Up is Good
+LIB02-S,Books Borrowed,Homestead Park,Monthly,40.0521162,-83.18246839999999,Up is Good
+TAP13a,"% of Talkabout panel who give unpaid help to any group, club or organisation",No Name,Quarterly,0.0,0.0,Up is Good
+TAP13b,"% of Talkabout panel who do not give unpaid help to any group, club or organisation",No Name,Quarterly,0.0,0.0,Up is Bad
+TAP31a,% of panel who think that the council and partners are doing well conserving York's heritage,No Name,Quarterly,0.0,0.0,Up is Good
+TAP31b,% of panel who think that the council and partners are not doing well conserving York's heritage,No Name,Quarterly,0.0,0.0,Up is Bad
