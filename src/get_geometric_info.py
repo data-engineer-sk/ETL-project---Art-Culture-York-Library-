@@ -7,7 +7,7 @@ def get_geometric(inAddress):
     try:
         goBack = []
 
-        GOOGLE_MAPS_API_KEY = 'AIzaSyDQShqrTds5KMCQyZ1U7dQdiL4gCDXRPGE'
+        GOOGLE_MAPS_API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
         
         gmap_client = googlemaps.Client(GOOGLE_MAPS_API_KEY);
 
