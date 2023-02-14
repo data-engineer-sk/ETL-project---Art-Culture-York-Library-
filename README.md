@@ -36,15 +36,6 @@ Four analysis reports have been created (based on the three normalised tables in
 ![PowerBI 4th](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/PowerBi-4thPage.png)
 
 ### System Requirement
-- Python
-- Pandas 
-- Power BI Desktop
-
-
-
-This aims of the project:
->- *Upload the CSV files from clients' branches*
->- *Perform the ETL process*
->- *Install the AWS Cloud Services to facilitate
->- *Configurate the services*
->- *Perform the data visualization to monitor the business performances
+- *Python
+- *Pandas 
+- *Power BI Desktop
