@@ -4,22 +4,22 @@
 ![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![Original Data File](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/Original%20Data.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![Data Base](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/DB%20Schema.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![MySQL Screen Short](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/MySQL%20ScreenShort.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![PowerBI Main](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/PowerBI-MainPage.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![PowerBI 2nd](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/PowerBI-2ndPage.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![PowerBI 3rd](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/PowerBI-3rdPage.png)
 
 
-![ETL Process for Factory International](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/pipeline%20architecture.png)
+![PowerBI 4th](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/PowerBi-4thPage.png)
