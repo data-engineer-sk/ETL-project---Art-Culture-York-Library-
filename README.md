@@ -8,6 +8,11 @@ This is a real world project.  This project aim to demonstrate the use of the ET
 
 ### Data Description
 The data that collected from the government website is classified as "Third Party" data.  This kind of data is known not very reliable, sometime may be staled as well.
+
+## Government Website
+![Government Website](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/Government%20Website.png)
+
+## The Original Dataset
 ![Original Data File](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/Original%20Data.png)
 
 ### ETL Process
