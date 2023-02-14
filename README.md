@@ -37,5 +37,5 @@ Four analysis reports have been created (based on the three normalised tables in
 
 ### System Requirement
 - *Python*
-- *Pandas 
-- *Power BI Desktop
+- *Pandas*
+- *Power BI Desktop*
