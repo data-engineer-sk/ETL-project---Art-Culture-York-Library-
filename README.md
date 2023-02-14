@@ -16,10 +16,9 @@ There are 4 processes in this project
 1. Collection of Data from CSV file (no data cleaning in this time)
 
 ### Data Normalisation
-A single collected dataset is broken into three distincted files. 
-Four analysis reports have been created (based on the three normalised tables in data warehouse (here is MySQL))
+A single collected dataset is broken into three distincted files.
 ![Data Base](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/DB%20Schema.png)
-
+Four analysis reports have been created (based on the three normalised tables in data warehouse (here is MySQL))
 
 ![MySQL Screen Short](https://github.com/data-engineer-sk/ETL-project-Art-Culture-York-Libraries/blob/main/MySQL%20ScreenShort.png)
 
